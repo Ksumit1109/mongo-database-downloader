@@ -88,7 +88,7 @@ database_backup/
 ```json
 {
   "exportInfo": {
-    "database": "aitoolsbazaar",
+    "database": "DatabaseName",
     "exportDate": "2025-09-25T12:30:45.123Z",
     "exportDirectory": "./database_backup"
   },
